@@ -1,3 +1,5 @@
+document.documentElement.classList.add("js-enabled");
+
 const menuToggle = document.querySelector("[data-menu-toggle]");
 const navMenu = document.querySelector("#primary-navigation");
 const navLinks = document.querySelectorAll(".nav-link");
